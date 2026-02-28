@@ -1,0 +1,6 @@
+numpy
+pytest
+
+# Optional (not required for the scaffold):
+# pillow
+# pyttsx3  # local TTS if desired
